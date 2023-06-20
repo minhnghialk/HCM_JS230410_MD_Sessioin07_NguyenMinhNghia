@@ -1,0 +1,21 @@
+@import '~bootstrap/scss/bootstrap';
+
+.image-container {
+  position: relative;
+  margin-top: 20px;
+  margin-left: 70px;
+}
+
+.image-container .card-title {
+    position: absolute;
+    width: 170px;
+    height: 40px;
+    color: black;
+    background-color: #fff;
+    text-align: center;
+    bottom: 60px;
+    padding: 8px;
+    margin-left: 60px;
+}
+
+
